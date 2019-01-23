@@ -1,12 +1,12 @@
 package refactoring_gilbut.chap01.after;
 
-public class Robot {
-	public static final int COMMAND_JUMP = 2;
-	public static final int COMMAND_STOP = 1;
+public class RobotSymbolicConstant {
 	public static final int COMMAND_WALK = 0;
+	public static final int COMMAND_STOP = 1;
+	public static final int COMMAND_JUMP = 2;
 	private final String name;
 
-	public Robot(String name) {
+	public RobotSymbolicConstant(String name) {
 		this.name = name;
 	}
 

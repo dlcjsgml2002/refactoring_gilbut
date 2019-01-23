@@ -1,9 +1,9 @@
 package refactoring_gilbut.chap01.before;
 
-public class Robot {
+public class RobotMaginNumber {
 	private final String name;
 
-	public Robot(String name) {
+	public RobotMaginNumber(String name) {
 		this.name = name;
 	}
 
