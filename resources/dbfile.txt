@@ -1,0 +1,4 @@
+hyuki@example.com=hiroshi yuki
+jobs@apple.com=steve jobs
+bmkim@yi.or.kr=kim bo min
+mia@yi.or.kr=woo sun mi
